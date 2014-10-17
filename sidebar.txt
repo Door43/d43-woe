@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[woe:home|Door43 (woe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-woe|d43-woe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-woe/archive/master.zip|d43-woe.zip]]
+
+**Recent Changes**
+{{changes>ns = woe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/woe|Ethnologue data]]
+
